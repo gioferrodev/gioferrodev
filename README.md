@@ -1,5 +1,5 @@
 ## Eae blz! Me chamo Giovanni Ferro. 👋
-
+Aspirante a desenvolverdor e mestre jedi.
 <!-- <div align="left">
   <a href="https://github.com/gioferrodev">
   
