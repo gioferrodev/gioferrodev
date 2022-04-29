@@ -1,4 +1,4 @@
-## Eae blz! Me chamo Giovanni Ferro. 👋
+## Eae blz 👋! Me chamo Giovanni Ferro.
 Aspirante a desenvolverdor.
 <div align="left">
   <a href="https://github.com/gioferrodev">
