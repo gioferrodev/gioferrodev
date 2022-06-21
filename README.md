@@ -7,7 +7,7 @@ Amante de tecnologia e aspirante a analista de dados.
   <img height="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioferrodev&layout=compact&langs_count=7&theme=buefy"/>
  </div>
   
- ## Aprendendo isso tudo aqui
+ ## Aprendendo isso tudo aqui:
  <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
